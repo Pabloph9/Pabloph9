@@ -2,7 +2,7 @@
 
 # Nota sobre autoría del código
 
-Algunos proyectos y análisis bioinformáticos disponibles en este perfil han sido migrados desde mi cuenta anterior (candidato-investigo963), utilizada originalmente en procesos de selección bajo anónimos.
+Algunos proyectos y análisis bioinformáticos disponibles en este perfil han sido migrados desde mi cuenta anterior (candidato-investigo963), utilizada originalmente en procesos de selección anónimos.
 
 Con el objetivo de centralizar mi portfolio académico y profesional, he transferido dichos repositorios a esta cuenta personal (Pabloph9).
 
